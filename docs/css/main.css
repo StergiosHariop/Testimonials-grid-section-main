@@ -134,7 +134,7 @@ main {
     font-weight: 600;
   }
   .card.first {
-    background-image: url("../images/bg-pattern-quotation.svg");
+    background-image: url("../docs/images/bg-pattern-quotation.svg");
     background-repeat: no-repeat;
     background-position: top 0 right 82px;
   }
