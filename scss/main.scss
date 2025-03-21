@@ -116,7 +116,8 @@ main {
     }
 
     &.first {
-      background-image: url("/docs/images/bg-pattern-quotation.svg");
+    //import bg-pattern-quatation.svg
+      background-image: url('../images/bg-pattern-quotation.svg');
       background-repeat: no-repeat;
       background-position: top 0 right 82px;
     }
