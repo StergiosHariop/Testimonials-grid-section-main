@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/result.png)
+![](./docs/images/result.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/StergiosHariop/Testimonials-grid-section-main)
-- Live Site URL: [Add live site URL here](https://stergioshariop.github.io/Testimonials-grid-section-main/)
+- Solution URL: [Code](https://github.com/StergiosHariop/Testimonials-grid-section-main)
+- Live Site URL: [Live Site](https://stergioshariop.github.io/Testimonials-grid-section-main/)
 
 ### Built with
 
